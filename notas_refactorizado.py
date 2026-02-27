@@ -1,6 +1,6 @@
 # Programa de gestión de boletines de calificaciones
-# Autor: [ESCRIBE TU NOMBRE AQUÍ]
-# Fecha: [ESCRIBE LA FECHA DE HOY AQUÍ]
+# Autor: Francisco José López García
+# Fecha: 27/02/2026
 
 def calcular_media(nota1, nota2, nota3):
     """
